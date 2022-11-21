@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Emanuela just launched her Site"
 date: 2022-11-19
 ---
